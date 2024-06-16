@@ -1,0 +1,2 @@
+# gatito_dashboard_alura
+Link para acesso do projeto https://app.powerbi.com/view?r=eyJrIjoiMWU2MWVmNDItMGY2Yy00ZWViLWFiMGEtYmZiNDc4YjA0YmVkIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
